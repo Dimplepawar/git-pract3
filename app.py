@@ -17,3 +17,4 @@ print(f"Hello,{name}")
 # >>>>>>> master
 # >>>>>>> master
 # >>>>>>> master
+print("This is the resolved version.")
